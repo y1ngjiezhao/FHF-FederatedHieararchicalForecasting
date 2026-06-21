@@ -1,0 +1,11 @@
+module,seconds
+setup_sec,58.70068639999954
+data_preparation_sec,58.62302020000061
+model_server_initialization_sec,0.07766329999139998
+fl_training_sec,21477.638075199997
+residual_collection_sec,129.61379449999367
+recon_matrix_sec,2.2470808000070974
+p2p_reconcile_sec,22.52437220000138
+reconciliation_sec,154.38524750000215
+evaluation_sec,6.531974400000763
+total_sec,21697.2559835
