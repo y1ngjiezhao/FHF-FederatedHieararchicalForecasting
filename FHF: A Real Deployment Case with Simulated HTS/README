@@ -1,0 +1,4 @@
+We also achieved our proposed Federated Hierarchical Forecasting framework in a distributed deployment, which is achieved based on Flower and TCP in Python.
+The real deployment cases are tested based on a simulated Hiearachical Time Series (HTS) datasets. The simulated HTS datasets includes 11 nodes and 3 levels (Top: 1; Middle: 2, and Bottom: 8).
+
+In this deployment, we consider privacy-concerns occurs during data aggregation/collection when the series at higher level are aggregated after lower-level series existing.
